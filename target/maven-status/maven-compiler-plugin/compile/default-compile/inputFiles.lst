@@ -1,0 +1,7 @@
+/Users/eliucinho/Documents/IntellijProjects/tasks-manager-feature-mongodb/src/main/java/com/fintech/app/Application.java
+/Users/eliucinho/Documents/IntellijProjects/tasks-manager-feature-mongodb/src/main/java/com/fintech/app/application/services/TaskService.java
+/Users/eliucinho/Documents/IntellijProjects/tasks-manager-feature-mongodb/src/main/java/com/fintech/app/domain/models/Task.java
+/Users/eliucinho/Documents/IntellijProjects/tasks-manager-feature-mongodb/src/main/java/com/fintech/app/domain/repos/TaskRepository.java
+/Users/eliucinho/Documents/IntellijProjects/tasks-manager-feature-mongodb/src/main/java/com/fintech/app/infra/config/JacksonConfig.java
+/Users/eliucinho/Documents/IntellijProjects/tasks-manager-feature-mongodb/src/main/java/com/fintech/app/infra/persistence/MongoTaskRepository.java
+/Users/eliucinho/Documents/IntellijProjects/tasks-manager-feature-mongodb/src/main/java/com/fintech/app/infra/web/TaskController.java

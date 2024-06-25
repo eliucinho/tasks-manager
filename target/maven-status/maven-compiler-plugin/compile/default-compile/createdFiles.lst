@@ -1,0 +1,8 @@
+com/fintech/app/domain/models/TaskStatus.class
+com/fintech/app/Application.class
+com/fintech/app/domain/models/Task.class
+com/fintech/app/infra/config/JacksonConfig.class
+com/fintech/app/infra/web/TaskController.class
+com/fintech/app/infra/persistence/MongoTaskRepository.class
+com/fintech/app/application/services/TaskService.class
+com/fintech/app/domain/repos/TaskRepository.class
